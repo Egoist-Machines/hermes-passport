@@ -1,0 +1,11 @@
+manifest_version: 1
+name: ai_passport
+version: 0.1.0
+description: "AI Passport as Hermes memory: owner-approved recall over the agent-backend plane, plus recall and remember tools over MCP."
+homepage: "https://ego.ist/hermes"
+# No pip_dependencies on purpose. The provider talks HTTP over the standard
+# library, so a sealed venv (Docker, `hermes update` rebuild) needs nothing
+# installed for memory to keep working.
+hooks:
+  - on_memory_write
+  - on_session_end

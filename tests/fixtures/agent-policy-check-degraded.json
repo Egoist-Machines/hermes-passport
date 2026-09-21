@@ -1,0 +1,12 @@
+{
+  "decision": "allow",
+  "effective": "allow",
+  "mode": "audit",
+  "matched_pattern": null,
+  "event_id": null,
+  "approval_url": null,
+  "poll_url": null,
+  "cache_ttl": 60,
+  "degraded": true,
+  "degraded_reason": "rules_unavailable"
+}

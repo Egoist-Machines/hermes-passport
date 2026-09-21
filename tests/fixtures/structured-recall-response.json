@@ -1,0 +1,58 @@
+{
+  "outcome": "partial",
+  "categories": [
+    {
+      "category": "preference",
+      "outcome": "results",
+      "rows": [
+        {
+          "memory_id": "0f2b6c1e-6c1a-4f2e-9f4a-1a2b3c4d5e6f",
+          "content": "Prefers dark roast coffee, no sugar.",
+          "source": "chatgpt",
+          "created_at": "2026-08-01T09:15:00.000Z",
+          "occurred_at": "2026-08-01T09:15:00.000Z",
+          "category": "preference",
+          "client_id": "client_native_travel",
+          "evidence_basis": null,
+          "record_kind": null,
+          "verified_issuer": null,
+          "verified_at": null
+        }
+      ]
+    },
+    {
+      "category": "relationship",
+      "outcome": "results",
+      "rows": [
+        {
+          "memory_id": "1f2b6c1e-6c1a-4f2e-9f4a-1a2b3c4d5e70",
+          "content": "Travels with Ada for research conferences.",
+          "source": "chatgpt",
+          "created_at": "2026-08-02T09:15:00.000Z",
+          "occurred_at": "2026-08-02T09:15:00.000Z",
+          "category": "relationship",
+          "client_id": "client_native_travel",
+          "evidence_basis": null,
+          "record_kind": null,
+          "verified_issuer": null,
+          "verified_at": null
+        }
+      ]
+    },
+    {
+      "category": "fact",
+      "outcome": "approval_required",
+      "approval_url": "https://passport.ego.ist/memory/approve?ticket=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "approval_expires_at": "2026-09-01T12:15:00.000Z"
+    },
+    {
+      "category": "project",
+      "outcome": "locked",
+      "unlock_url": "https://my.ego.ist/memory-lock"
+    },
+    {
+      "category": "event",
+      "outcome": "unavailable"
+    }
+  ]
+}

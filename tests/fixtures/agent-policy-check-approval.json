@@ -1,0 +1,10 @@
+{
+  "decision": "require_approval",
+  "effective": "require_approval",
+  "mode": "enforce",
+  "matched_pattern": "payment*",
+  "event_id": "6b9c8f9e-0000-4000-8000-000000000003",
+  "approval_url": "https://my.ego.ist/inbox",
+  "poll_url": "/agent/policy/decisions/6b9c8f9e-0000-4000-8000-000000000003",
+  "cache_ttl": 60
+}

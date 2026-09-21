@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "mode": "enforce",
+  "default_action": "allow",
+  "rules": [
+    { "tool_pattern": "shell*", "action": "deny" },
+    { "tool_pattern": "payment*", "action": "require_approval" }
+  ],
+  "cache_ttl": 60
+}

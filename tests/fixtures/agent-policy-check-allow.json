@@ -1,0 +1,10 @@
+{
+  "decision": "allow",
+  "effective": "allow",
+  "mode": "audit",
+  "matched_pattern": null,
+  "event_id": "6b9c8f9e-0000-4000-8000-000000000001",
+  "approval_url": null,
+  "poll_url": null,
+  "cache_ttl": 60
+}

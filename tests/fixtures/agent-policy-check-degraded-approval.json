@@ -1,0 +1,12 @@
+{
+  "decision": "require_approval",
+  "effective": "allow",
+  "mode": "enforce",
+  "matched_pattern": "payment*",
+  "event_id": null,
+  "approval_url": null,
+  "poll_url": null,
+  "cache_ttl": 0,
+  "degraded": true,
+  "degraded_reason": "event_write_failed"
+}
